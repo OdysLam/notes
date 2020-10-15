@@ -3,6 +3,9 @@ title: Taking smart notes of books
 ---
 
 ## - "Metadata:"
+:PROPERTIES:
+:custom_id: 5f87f17a-f472-45f0-8aa8-5d05b0b976f9
+:END:
     - "Author: #SonkeAhrens"
     - "Type: #book "
     - "Status: #finished"
